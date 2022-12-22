@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning React.js ...
 - 📫 How to reach me ...
 - https://instagram.com/nchavch
+- nikolozichavchavadze@yahoo.com
 
 
