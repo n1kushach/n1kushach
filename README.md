@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikusha</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-- 🔭 I’m currently working on **some internal work projects**
+- 🔭 I’m currently working on **some internal work projects** , unfortunately I don't have rights to upload them here.
 
 - 🌱 I’m currently learning **React.js / Tailwind CSS**
 
