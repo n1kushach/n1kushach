@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some internal work projects** , unfortunately I don't have rights to upload them here.
 
-- 🌱 I’m currently learning **React.js / Tailwind CSS**
+- 🌱 My current stack is **React.js (Redux) / **Next.js / Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/n1kushach](https://github.com/n1kushach)
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikoloz-chavchavadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikoloz chavchavadze" height="30" width="40" /></a>
-<a href="https://instagram.com/__pierrce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pierrce" height="30" width="40" /></a>
+<a href="https://instagram.com/p1erceprc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pierrce" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
