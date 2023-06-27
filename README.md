@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some internal work projects** , unfortunately I don't have rights to upload them here.
 
-- 🌱 My current stack is **React.js (Redux) / **Next.js / Tailwind CSS**
+- 🌱 My current stack is **React.js (Redux) / Next.js / Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/n1kushach](https://github.com/n1kushach)
 
